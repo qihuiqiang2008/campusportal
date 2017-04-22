@@ -136,10 +136,10 @@ header .intro-text .intro-lead-in {margin-bottom: 30px;font-family: 'Shadows Int
 #page-content.single-page {padding: 70px 0;background: #F7F7F7;}
 
 /* ---HomePage--- */
-.box-content {padding: 100px 0;}
+.box-content {padding: 70px 0;}
 .box-content .heading{margin-bottom: 30px; text-align: center;}
 .box-content .heading h2{font-size: 45px;letter-spacing:2px;}
-.box-content .heading .intro{margin-bottom: 75px;font-family: 'Shadows Into Light', cursive;font-size:22px;font-style: italic;}
+.box-content .heading .intro{margin-bottom: 75px;font-family: '微软雅黑', cursive;font-size:22px;font-style:normal;}
 
 .box-content.box-style {background-attachment:fixed; background-image: url(../images/bg-1.jpg); background-color: #222;color:#fff;}
 
@@ -299,7 +299,7 @@ footer .wrap-footer {padding-top: 50px;background-color: #222;}
 footer .col-footer{margin-bottom: 50px;}
 footer .col-footer .heading{text-align: center;}
 footer .col-footer .heading h4{color:#fff;font-size: 24px;margin-bottom: 25px;}
-footer .col-footer .content{}
+footer .col-footer .content p{font-size: 15px;font-family: 微软雅黑;line-height: 25px;text-align: left}
 
 footer .col-footer.footer-1{}
 footer .col-footer.footer-1 img{width:40%;}
@@ -309,7 +309,7 @@ footer .col-footer.footer-2{}
 footer .col-footer.footer-3{}
 footer .col-footer.footer-3 img{margin: 10px 0;}
   
-footer .copyright {padding: 15px 0;background-color: #F7F7F7;color:#222; text-align:center;}
+footer .copyright {background-color: #F7F7F7;color:#222; margin:0 auto;}
 footer .copyright p, footer .copyright ul{margin: 20px 0;}
 
 /* ---------------------------------------------------------------------------- */
